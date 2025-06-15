@@ -1,4 +1,4 @@
-## Salve!!!
+## ✌ | Salve!!!
 
 - 👨‍🎓 Estudo na Universidade Cruzeiro do Sul;
 - 📚 Atualmente estou estudando Java;
