@@ -36,15 +36,25 @@
 #### Workstation Tools:
 
 <div style="display: inline_block">
-  <img align="center" alt="VSCODE" src="https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white">
+    <img align="center" alt="VSCODE" src="https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white">
+    <img align="center" alt="GITHUB" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge">
 </div></br>
 
 ## Contacts
 
 <div> 
-  <a href="https://www.instagram.com/dr3st.og/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andre-xavier-an" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:andrexavier.epro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/dr3st.og/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+    <a href="https://www.linkedin.com/in/andre-xavier-an" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a href="https://dr3st-d3.github.io/portfolio-site/">
+        <img src="https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge">
+    </a>
+    <a href = "mailto:andrexavier.epro@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=71bfdf&height=120&section=footer"/>
