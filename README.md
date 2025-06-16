@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=71bfdf&height=120&section=header"/>
+
 <a href="https://github.com/dr3st-d3/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=dr3st-d3"/>
 </a>
@@ -7,7 +9,7 @@
 
 ## My Skills
 
-<img src="https://github.com/dr3st-d3/dr3st-d3/blob/main/Sem%20fundo%202.png" min-width="200px" max-width="200px" width="200px" align="right" alt="CHIBI">
+<img src="https://github.com/dr3st-d3/dr3st-d3/blob/main/Sem%20fundo%202.png" height="230" align="right" alt="MYCHIBI">
 
 #### Learning and applying on my GitHub:
 
@@ -32,3 +34,5 @@
   <a href="https://www.linkedin.com/in/andre-xavier-an" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:andrexavier.epro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=71bfdf&height=120&section=footer"/>
