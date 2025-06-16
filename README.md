@@ -7,6 +7,8 @@
 
 ## My Skills
 
+<img src="https://github.com/dr3st-d3/dr3st-d3/blob/main/Sem%20fundo%202.png" min-width="200px" max-width="200px" width="200px" align="right" alt="CHIBI">
+
 #### Learning and applying on my GitHub:
 
 <div style="display: inline_block">
@@ -16,8 +18,6 @@
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge">
 </div>
-
-<img src="https://drive.google.com/file/d/1OpMYtvNeaRXnU29T3og87odXNjjGJLpp/view?usp=sharing" min-width="200px" max-width="200px" width="200px" align="right" alt="CHIBI">
 
 #### Workstation Tools:
 
