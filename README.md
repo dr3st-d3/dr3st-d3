@@ -35,9 +35,9 @@
 
 #### Workstation Tools:
 
-<div style="display: inline_block"></br>
+<div style="display: inline_block">
   <img align="center" alt="VSCODE" src="https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white">
-</div>
+</div></br>
 
 ## Contacts
 
