@@ -1,6 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=71bfdf&height=120&section=header"/>
 
 <p align="center">
+    ✌ | Welcome
+</p>
+
+## Stats
+
+<p align="center">
     <a href="https://github.com/dr3st-d3">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tauz streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dr3st-d3&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
