@@ -13,7 +13,7 @@
 
 <div style="display: inline_block">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge">
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge">
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="GIT" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge">
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge">
