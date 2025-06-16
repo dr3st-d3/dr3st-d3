@@ -1,19 +1,31 @@
-## ✌ | Salve!!!
-
 <a href="https://github.com/dr3st-d3/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=dr3st-d3"/>
 </a>
 <a href="https://github.com/dr3st-d3/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dr3st-d3&layout=compact&langs_count=8&card_width=320&hide=tex" />
 </a>
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+
+## My Skills
+
+#### Learning and applying on my GitHub:
+
+<div style="display: inline_block">
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge">
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge">
+  <img align="center" alt="GIT" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge">
+  <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge">
 </div>
 
-##
+<img src="https://drive.google.com/file/d/1OpMYtvNeaRXnU29T3og87odXNjjGJLpp/view?usp=sharing" min-width="200px" max-width="200px" width="200px" align="right" alt="CHIBI">
+
+#### Workstation Tools:
+
+<div style="display: inline_block">
+  <img align="center" alt="VSCODE" src="https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white">
+</div>
+
+## Contacts
 
 <div> 
   <a href="https://www.instagram.com/dr3st.og/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
