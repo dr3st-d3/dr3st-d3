@@ -49,7 +49,7 @@
     <a href="https://www.linkedin.com/in/andre-xavier-an" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
-    <a href="https://dr3st-d3.github.io/portfolio-site/">
+    <a href="https://dr3st-d3.github.io/portfolio-site/" target="_blank">
         <img src="https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge">
     </a>
     <a href = "mailto:andrexavier.epro@gmail.com">
