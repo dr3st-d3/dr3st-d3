@@ -1,11 +1,5 @@
 ## ✌ | Salve!!!
 
-- 👨‍🎓 Estudo na Universidade Cruzeiro do Sul;
-- 📚 Atualmente estou estudando Java;
-- 🎵 Gosto de Boom bap.
-
-##
-
 <a href="https://github.com/dr3st-d3/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=dr3st-d3"/>
 </a>
