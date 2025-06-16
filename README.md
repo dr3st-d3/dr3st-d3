@@ -9,7 +9,7 @@
 
 ## My Skills
 
-<img src="https://github.com/dr3st-d3/dr3st-d3/blob/main/Sem%20fundo%202.png" height="230" align="right" alt="MYCHIBI">
+<img src="https://github.com/dr3st-d3/dr3st-d3/blob/main/Sem%20fundo%202.png" height="230" align="right" alt="MYCHIBI" style="border-radius:50%;">
 
 #### Learning and applying on my GitHub:
 
