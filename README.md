@@ -39,20 +39,22 @@
 <div style="display: inline_block">
     <img align="center" alt="PYCHARM" src="https://skillicons.dev/icons?i=pycharm">
     <img align="center" alt="VSCODE" src="https://skillicons.dev/icons?i=vscode">
-    <img align="center" alt="GITHUB" src="https://skillicons.dev/icons?i=github">
 </div></br>
 
 ## Contacts
 
-<div> 
-  <a href="https://www.instagram.com/dr3st.og/" target="_blank">
-      <img align="center" alt="INSTAGRAM" src="https://skillicons.dev/icons?i=instagram">
-  </a>
+<div>
+    <a href="https://dr3st-d3.github.io/portfolio-site/" target="_blank">
+    <img align="center" alt="GITHUB" src="https://skillicons.dev/icons?i=github">    
+    </a>
+    <a href="https://www.instagram.com/dr3st.og/" target="_blank">
+    <img align="center" alt="INSTAGRAM" src="https://skillicons.dev/icons?i=instagram">
+    </a>
     <a href="https://www.linkedin.com/in/andré-xavier-31096b226" target="_blank">
-        <img align="center" alt="LINKEDIN" src="https://skillicons.dev/icons?i=linkedin">
+    <img align="center" alt="LINKEDIN" src="https://skillicons.dev/icons?i=linkedin">
     </a>
     <a href = "mailto:andrexavier.epro@gmail.com">
-        <img align="center" alt="GMAIL" src="https://skillicons.dev/icons?i=gmail">
+    <img align="center" alt="GMAIL" src="https://skillicons.dev/icons?i=gmail">
     </a>
 </div>
 
