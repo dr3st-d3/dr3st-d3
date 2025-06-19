@@ -17,7 +17,7 @@
 
 <img src="https://github.com/dr3st-d3/dr3st-d3/blob/main/Sem%20fundo%202.png" height="230" align="right" alt="MYCHIBI" style="border-radius:50%;">
 
-#### Basic knowledge:
+#### Basic Knowledge:
 
 <div style="display: inline_block">
     <img align="center" alt="PYTHON" src="https://skillicons.dev/icons?i=python">
@@ -26,7 +26,7 @@
     <img align="center" alt="GIT" src="https://skillicons.dev/icons?i=git">
 </div>
 
-#### Studying now:
+#### Studying Now:
 
 <div style="display: inline_block">
     <img align="center" alt="JAVA" src="https://skillicons.dev/icons?i=java">
