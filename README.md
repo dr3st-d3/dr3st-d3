@@ -48,7 +48,7 @@
   <a href="https://www.instagram.com/dr3st.og/" target="_blank">
       <img align="center" alt="INSTAGRAM" src="https://skillicons.dev/icons?i=instagram">
   </a>
-    <a href="https://www.linkedin.com/in/andre-xavier-an" target="_blank">
+    <a href="https://www.linkedin.com/in/andré-xavier-31096b226" target="_blank">
         <img align="center" alt="LINKEDIN" src="https://skillicons.dev/icons?i=linkedin">
     </a>
     <a href = "mailto:andrexavier.epro@gmail.com">
