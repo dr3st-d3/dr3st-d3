@@ -17,14 +17,21 @@
 
 <img src="https://github.com/dr3st-d3/dr3st-d3/blob/main/Sem%20fundo%202.png" height="230" align="right" alt="MYCHIBI" style="border-radius:50%;">
 
-#### Learning and applying on my GitHub:
+#### Basic knowledge:
 
 <div style="display: inline_block">
-    <img align="center" alt="JAVA" src="https://skillicons.dev/icons?i=java">
     <img align="center" alt="PYTHON" src="https://skillicons.dev/icons?i=python">
     <img align="center" alt="HTML5" src="https://skillicons.dev/icons?i=html">
     <img align="center" alt="CSS3" src="https://skillicons.dev/icons?i=css">
     <img align="center" alt="GIT" src="https://skillicons.dev/icons?i=git">
+</div>
+
+#### Studying now:
+
+<div style="display: inline_block">
+    <img align="center" alt="JAVA" src="https://skillicons.dev/icons?i=java">
+    <img align="center" alt="PYTHON" src="https://skillicons.dev/icons?i=cs">
+    <img align="center" alt="SQLITE" src="https://skillicons.dev/icons?i=sqlite">
 </div>
 
 #### Workstation Tools:
@@ -38,16 +45,13 @@
 
 <div> 
   <a href="https://www.instagram.com/dr3st.og/" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+      <img align="center" alt="INSTAGRAM" src="https://skillicons.dev/icons?i=instagram">
   </a>
     <a href="https://www.linkedin.com/in/andre-xavier-an" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-    <a href="https://dr3st-d3.github.io/portfolio-site/" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge">
+        <img align="center" alt="LINKEDIN" src="https://skillicons.dev/icons?i=linkedin">
     </a>
     <a href = "mailto:andrexavier.epro@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        <img align="center" alt="GMAIL" src="https://skillicons.dev/icons?i=gmail">
     </a>
 </div>
 
