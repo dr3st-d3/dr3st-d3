@@ -20,18 +20,18 @@
 #### Learning and applying on my GitHub:
 
 <div style="display: inline_block">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge">
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="GIT" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge">
-  <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge">
+    <img align="center" alt="JAVA" src="https://skillicons.dev/icons?i=java">
+    <img align="center" alt="PYTHON" src="https://skillicons.dev/icons?i=python">
+    <img align="center" alt="HTML5" src="https://skillicons.dev/icons?i=html">
+    <img align="center" alt="CSS3" src="https://skillicons.dev/icons?i=css">
+    <img align="center" alt="GIT" src="https://skillicons.dev/icons?i=git">
 </div>
 
 #### Workstation Tools:
 
 <div style="display: inline_block">
-    <img align="center" alt="VSCODE" src="https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white">
-    <img align="center" alt="GITHUB" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge">
+    <img align="center" alt="VSCODE" src="https://skillicons.dev/icons?i=vscode">
+    <img align="center" alt="GITHUB" src="https://skillicons.dev/icons?i=github">
 </div></br>
 
 ## Contacts
