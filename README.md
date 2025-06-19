@@ -44,9 +44,6 @@
 ## Contacts
 
 <div>
-    <a href="https://dr3st-d3.github.io/portfolio-site/" target="_blank">
-    <img align="center" alt="GITHUB" src="https://skillicons.dev/icons?i=github">    
-    </a>
     <a href="https://www.instagram.com/dr3st.og/" target="_blank">
     <img align="center" alt="INSTAGRAM" src="https://skillicons.dev/icons?i=instagram">
     </a>
@@ -55,6 +52,9 @@
     </a>
     <a href = "mailto:andrexavier.epro@gmail.com">
     <img align="center" alt="GMAIL" src="https://skillicons.dev/icons?i=gmail">
+    </a>
+    <a href="https://dr3st-d3.github.io/portfolio-site/" target="_blank">
+    <img align="center" alt="GITHUB" src="https://skillicons.dev/icons?i=github">    
     </a>
 </div>
 
