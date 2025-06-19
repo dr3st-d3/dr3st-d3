@@ -37,6 +37,7 @@
 #### Workstation Tools:
 
 <div style="display: inline_block">
+    <img align="center" alt="PYCHARM" src="https://skillicons.dev/icons?i=pycharm">
     <img align="center" alt="VSCODE" src="https://skillicons.dev/icons?i=vscode">
     <img align="center" alt="GITHUB" src="https://skillicons.dev/icons?i=github">
 </div></br>
