@@ -29,8 +29,8 @@
 #### Studying Now:
 
 <div style="display: inline_block">
+    <img align="center" alt="JAVASCRIPT" src="https://skillicons.dev/icons?i=js">
     <img align="center" alt="JAVA" src="https://skillicons.dev/icons?i=java">
-    <img align="center" alt="PYTHON" src="https://skillicons.dev/icons?i=cs">
     <img align="center" alt="SQLITE" src="https://skillicons.dev/icons?i=sqlite">
 </div>
 
