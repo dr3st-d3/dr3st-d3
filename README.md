@@ -21,6 +21,7 @@
 
 <div style="display: inline_block">
     <img align="center" alt="PYTHON" src="https://skillicons.dev/icons?i=python">
+    <img align="center" alt="PYTHON" src="https://skillicons.dev/icons?i=cs">
     <img align="center" alt="HTML5" src="https://skillicons.dev/icons?i=html">
     <img align="center" alt="CSS3" src="https://skillicons.dev/icons?i=css">
     <img align="center" alt="GIT" src="https://skillicons.dev/icons?i=git">
