@@ -52,9 +52,6 @@
     <a href="https://www.linkedin.com/in/andré-xavier-31096b226" target="_blank">
     <img align="center" alt="LINKEDIN" src="https://skillicons.dev/icons?i=linkedin">
     </a>
-    <a href = "mailto:andrexavier.epro@gmail.com">
-    <img align="center" alt="GMAIL" src="https://skillicons.dev/icons?i=gmail">
-    </a>
     <a href="https://dr3st-d3.github.io/portfolio-site/" target="_blank">
     <img align="center" alt="GITHUB" src="https://skillicons.dev/icons?i=github">    
     </a>
