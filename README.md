@@ -4,15 +4,6 @@
     ✌ | Welcome
 </p>
 
-## Stats
-
-<a href="https://github.com/dr3st-d3">
-  <img alt="Tauz Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=dr3st-d3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/dr3st-d3">
-  <img alt="Tauz Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr3st-d3&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=tex" align="right" />
-</a>
-
 ## My Skills
 
 <img src="https://github.com/dr3st-d3/dr3st-d3/blob/main/Sem%20fundo%202.png" height="230" align="right" alt="MYCHIBI" style="border-radius:50%;">
