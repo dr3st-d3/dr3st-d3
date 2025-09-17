@@ -12,9 +12,9 @@
 
 <div style="display: inline_block">
     <img align="center" alt="PYTHON" src="https://skillicons.dev/icons?i=python">
-    <img align="center" alt="LUA" src="https://skillicons.dev/icons?i=lua">
     <img align="center" alt="JAVA" src="https://skillicons.dev/icons?i=java">
     <img align="center" alt="C#" src="https://skillicons.dev/icons?i=cs">
+    <img align="center" alt="LUA" src="https://skillicons.dev/icons?i=lua">
     <img align="center" alt="JAVASCRIPT" src="https://skillicons.dev/icons?i=js">
     <img align="center" alt="HTML5" src="https://skillicons.dev/icons?i=html">
     <img align="center" alt="CSS3" src="https://skillicons.dev/icons?i=css">
@@ -24,10 +24,9 @@
 #### Studying Now:
 
 <div style="display: inline_block">
-    <img align="center" alt="JAVASCRIPT" src="https://skillicons.dev/icons?i=js">
-    <img align="center" alt="C#" src="https://skillicons.dev/icons?i=cs">
     <img align="center" alt="JAVA" src="https://skillicons.dev/icons?i=java">
-    <img align="center" alt="SQLITE" src="https://skillicons.dev/icons?i=sqlite">
+    <img align="center" alt="C#" src="https://skillicons.dev/icons?i=cs">
+    <img align="center" alt="JAVASCRIPT" src="https://skillicons.dev/icons?i=js">
 </div>
 
 #### Workstation Tools:
